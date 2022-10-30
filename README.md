@@ -39,7 +39,7 @@ When discussing Os ticket configuaration, one would look at the mutiple roles an
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+There are mutiple departemnts that tickets are routed through departments in the help desk, there are also many settings that can be set for each department within a agency. These departements all have (SLA), that they must adhere to. (SLA) Service Level Agreement for tickets routed to department within a agency. SLA are the expected amount of time (in hours) that a ticket is expected to be closed once opened via Os ticket. If the ticket is not closed in the allotted amount of time, it will then be Overdue, at this point immediately follow up will be needed.
 </p>
 <br />
 
