@@ -49,6 +49,6 @@ There are mutiple departements that tickets are routed through departments in th
 " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Metadata in your help desk, the Dashboard will provide you an overview of tickets in your help desk que. The data can be filtered by date as well as Departments, Help Topics, and Agents. This data can also be exported into a CSV file.
 </p>
 <br />
