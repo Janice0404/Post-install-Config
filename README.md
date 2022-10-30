@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When discussing Os ticket configuaration, one would look at the mutiple roles and permissions granted with a agency to Agents per that particular department, that would allow the employees access to certain admin roles, agents, etc. Within Os tickete each role has a set of specific permissions that can be checked/unchecked for employees given that role in association with their department they have access to. 
 </p>
 <br />
 
