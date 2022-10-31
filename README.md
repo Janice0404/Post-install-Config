@@ -44,7 +44,7 @@ There are mutiple departements that tickets are routed through departments in th
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/116759326/199106169-2819d93b-d43d-4e01-8db4-3c82437a9a16.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Metadata is in your help desk, the Dashboard will provide you an overview of tickets in your help desk que. The data can be filtered by date as well as Departments, Help Topics, and Agents. This data can also be exported into a CSV file. Metadata is good for looking at ratios of tickets outstanding and completed.
