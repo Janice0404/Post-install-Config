@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/116759326/199105888-8f1d5154-5241-4099-93c5-e96ab3c34a6a.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 When discussing Os ticket configuaration, one would look at the mutiple roles and permissions granted with a agency to employees per that particular department, that would allow the employees access to certain admin roles, agents, etc. Within Os tickets each role has a set of specific permissions that can be checked/unchecked for employees given that role in association with their department they have access to. There are several roles that an employee can have such as Assign, create,close,delete, edit, completing task etc. Within the permissions tab of the employee Os ticket profile there is a section that the employee has, that allows functionality within the help desk which are not department specific access.  Areas such as the User Directory, Organization, and Knowledge Base can be limited per employee for need to know bases. This includes the ability to search for and see the ticket metadata for tickets the Agent does not have access to, the email ban list, and other staff statistics on the dashboard. User are ticket owners of the tickets in the help desk. When a ticket is created the help desk associate the ticket with the employees email address in the user directory of the helpesk.
